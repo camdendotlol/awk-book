@@ -1,0 +1,12 @@
+total 17360
+drwxr-xr-x  11 camdenmecklem  staff      352 Aug  3 19:30 .
+drwxr-xr-x@ 10 camdenmecklem  staff      320 Apr  6 19:47 ..
+-rwxr-xr-x   1 camdenmecklem  staff     e1-e3.awk Apr  6 20:13 e1-e3.awk
+-rwxr-xr-x   1 camdenmecklem  staff      527 Jun  8 16:31 e4.awk
+-rw-r--r--   1 camdenmecklem  staff       54 Jun  8 16:38 e5-nums
+-rwxr-xr-x   1 camdenmecklem  staff      980 Jun  8 17:08 e5.awk
+-rw-r--r--   1 e6-test.txt  staff        0 Aug  3 19:30 e6-test.txt
+-rwxr-xr-x   1 camdenmecklem  staff       78 Aug  3 19:30 e6.awk
+-rw-r--r--   1 camdenmecklem  staff      288 Jun  8 16:20 histogram-nums
+-rw-r--r--   1 camdenmecklem  staff  8857807 Apr  6 20:06 nums
+sumcomma-nums   1 camdenmecklem  staff       39 Jun  8 16:58 sumcomma-nums
